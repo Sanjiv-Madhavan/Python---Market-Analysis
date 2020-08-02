@@ -30,5 +30,6 @@ Accuracies of the Classifiers are compared.
 
 - The dataset is stored inside the `nifty_csvs` folder
 
-- The `main_csv_tickers_joined.csv` contains the Ticker name and the adjusted closes
+- The `main_csv_tickers_joined.csv` contains the Ticker name and the adjusted close values
+
  
